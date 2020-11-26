@@ -10,6 +10,17 @@
 
 <h1 align="center">Interview</h1>
 
+## 网站地址
+
+> 组织构建
+
+* GitHub Pages(国外): https://interview.apachecn.org
+* Gitee  Pages(国内): https://apachecn.gitee.io/interview
+
+> 第三方站长
+
+地址A: xxx (欢迎留言，我们完善补充)
+
 ## 组织介绍
 
 * 我们不是 Apache 的官方组织/机构/团体，只是 Apache 技术栈（以及 AI）的爱好者！
@@ -23,7 +34,28 @@
 
 * 熟悉: [GitHub 入门操作指南](docs/GitHub/README.md)
 
-## 面试指南
+## 面试求职
+
+目前关于面试注意一下几个点:
+
+* [简历](docs/面试求职/简历.md): 没有最好的，只有最适合的
+* [刷题](docs/面试求职/刷题.md): 这个就是熟能生巧的活，花时间就行
+* [岗位](docs/面试求职/岗位.md): 你是否知道这个岗位需要什么样的人？
+* [公司](docs/面试求职/公司.md): 如何去选公司呢？细细来品
+* [职场](docs/面试求职/职场.md): 如何职业规划呢？有趣的话题哈！
+* [理财](docs/面试求职/理财.md): 如何增加自己的被动收入
+* [年龄](docs/面试求职/年龄.md): 年龄对职场的影响有多
+* [学历](docs/面试求职/学历.md): 学习对求职影响有多大
+
+> 头条 - 面试求职系列
+
+* <https://www.ixigua.com/pseries/6822563009391493636>
+
+> B站 - 面试求职系列
+
+* <https://space.bilibili.com/97678687/channel/detail?cid=76174>
+
+## 简历直播
 
 > 简历直播系列
 
@@ -44,7 +76,8 @@
     - [JavaScript](/docs/Algorithm/Leetcode/JavaScript)
     - [C++](/docs/Algorithm/Leetcode/C++)
     - [ipynb](/docs/Algorithm/Leetcode/ipynb)
-    - [GO](https://github.com/aQuaYi/LeetCode-in-Go)
+    - [GO (作者 @aQuaYi 提供)](https://github.com/aQuaYi/LeetCode-in-Go)
+    - [GO (作者 @halfrost 提供)](https://github.com/halfrost/LeetCode-Go) 
     - [Golang](https://github.com/kylesliu/awesome-golang-leetcode)
 2. [剑指 Offer](/docs/Algorithm/剑指offer)
     - [Python](/docs/Algorithm/剑指offer/Python)
@@ -105,24 +138,13 @@
 
 > 第二期 (2018-06-01)
 
-* [KrisYu的Github](https://github.com/KrisYu/LeetCode-CLRS-Python)
+* [@KrisYu](https://github.com/KrisYu/LeetCode-CLRS-Python)
 * 授权信息: <https://github.com/apachecn/Interview/tree/master/docs/Algorithm/ProjectCornerstone/ApproveLetter.md>
 * [@Lisanaaa](https://github.com/Lisanaaa) -- 由于个人商业化原因，退出
-* [@片刻](https://github.com/jiangzhonglian)
-* [@小瑶](https://github.com/chenyyx)
-* [cclauss](https://github.com/cclauss)
-* [yudaer](https://github.com/yudaer)
-* [yuzhoujr](https://github.com/yuzhoujr)
-* [wizardforcel](https://github.com/wizardforcel)
-* [Stuming](https://github.com/Stuming)
-* [GaofanHu](https://github.com/GaofanHu)
-* [er3456qi](https://github.com/er3456qi)
-* [xshahq](https://github.com/xshahq)
-* [xiaqunfeng](https://github.com/xiaqunfeng)
-* [CaviarChen](https://github.com/CaviarChen)
-* [royIdoodle](https://github.com/royIdoodle)
-* [MarsXue](https://github.com/MarsXue)
-* [nature1995](https://github.com/nature1995)
+* [@片刻](https://github.com/jiangzhonglian) - [@小瑶](https://github.com/chenyyx) - [@cclauss](https://github.com/cclauss) - [@yudaer](https://github.com/yudaer)
+* [@yuzhoujr](https://github.com/yuzhoujr) - [@wizardforcel](https://github.com/wizardforcel) - [@Stuming](https://github.com/Stuming) - [@GaofanHu](https://github.com/GaofanHu)
+* [@er3456qi](https://github.com/er3456qi) - [@xshahq](https://github.com/xshahq) - [@xiaqunfeng](https://github.com/xiaqunfeng) - [@CaviarChen](https://github.com/CaviarChen)
+* [@royIdoodle](https://github.com/royIdoodle) - [@MarsXue](https://github.com/MarsXue) - [@nature1995](https://github.com/nature1995)
 
 > 第三期 (2019-07-17)
 
@@ -157,6 +179,7 @@
 
 ---
 
+<!-- 
 > 特别赞助商(欢迎“私聊”赞助)
 
 <table>
@@ -168,4 +191,5 @@
             </a>
           </td>
       </tbody>
-</table>
+</table> 
+-->
